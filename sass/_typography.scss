@@ -1,0 +1,29 @@
+.heading-1 {
+  font-size: 2.25rem;
+  font-weight: 400;
+}
+
+.heading-2 {
+  font-weight: 400;
+}
+
+.heading-5 {
+  font-size: 3rem;
+  color: cyan;
+}
+
+.heading-bold {
+  font-size: 3rem;
+  color: $color-primary-dark;
+  margin-bottom: 3rem;
+}
+
+.heading-grey {
+  font-size: 2rem;
+  color: $color-secondary-dark;
+  margin-bottom: 2rem;
+}
+
+.paragraph {
+  font-size: 2rem;
+}
